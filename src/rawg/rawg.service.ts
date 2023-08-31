@@ -15,7 +15,7 @@ export class RawgService {
     const axiosConfig = {
       url: `https://api.rawg.io/api/games?key=${this.config.get(
         'RAWG_API_KEY',
-      )}&page=1&page_size=5`,
+      )}&page=3&page_size=8`,
       method: 'GET',
       headers: {
         'User-Agent': userHeaders.ua,
