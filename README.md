@@ -1,7 +1,7 @@
 # About
 
 Server-side for frontend application Game Tracker
-[https://github.com/altumus/hltb-server](https://github.com/altumus/how-long-to-beat)
+https://github.com/altumus/how-long-to-beat
 
 # Instructions
 
