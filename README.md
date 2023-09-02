@@ -1,9 +1,9 @@
-#About
+# About
 
 Server-side for frontend application Game Tracker
 https://github.com/altumus/hltb-server
 
-#Instructions
+# Instructions
 
 1. Install docker https://www.docker.com
 2. Install yarn https://phoenixnap.com/kb/yarn-windows
